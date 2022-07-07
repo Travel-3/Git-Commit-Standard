@@ -24,8 +24,6 @@ Additional types are not mandated by the Conventional Commits specification, and
 
 ## Emoji List
 
-## The list
-
 Fork and modify to suit your needs. Don't forget to "star" and share the love.
 
 | Text | Image | GFM shortcode* | Windows 10 picker name | When to use it |
